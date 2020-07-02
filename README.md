@@ -1,2 +1,2 @@
 # Waiting_distance_distribution
-The distribution of waiting distance until a new topology/topology incompatibility
+The repository aims to study the distribution of waiting distance until a new topology/topology incompatibility in the scenario of the SMC' approximation in modeling coalescent with recombination. This could be essential to build up a recombination map estimation procedure using tree inference results, and will be used to benchmark some of the popular programs in tree inference (ARGweaver/Relate/tsinfer) specifically in terms of recombination.
